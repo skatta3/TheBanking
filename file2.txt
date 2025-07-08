@@ -1,0 +1,6 @@
+Client Opened a defect with JIRA # TB1503
+•	Developer fix the issue
+•	Tester writes a test case to test the bug fix (This test case is also part of your application)
+•	As soon as Developer pushes the fix to Remote Repo, CI Job will trigger
+•	QA Team verifies whether the test case is passed or not
+•	Then JIRA # 1503 is closed
