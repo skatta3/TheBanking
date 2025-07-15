@@ -1,4 +1,6 @@
-EC2  (Elastic Compute Cloud) is a Compute Service
+
+EC2  (Elastic Compute Cloud) is a Compute Service GK Added some Text for conflict 7/15
+
 Regional Service
 
 GiB -- Gibi Bytes
