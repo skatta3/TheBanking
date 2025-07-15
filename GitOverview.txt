@@ -1,0 +1,6 @@
+Version Control is the management of changes to documents, computer programs, large websites and other collection of information.
+It records all the changes made to a file or set of files, so a specific version may be called later if needed.
+The system makes sure that all the team members are working on the latest version of the file.
+Helps in managing and protecting the source code.
+Comparing earlier versions of the code
+Repository – A directory or storage space where your projects can live. It can be local to a folder on your computer, or it can be a storage space on GitHub or another online host. You can keep code files, text files, image files, you name it, inside a repository.
