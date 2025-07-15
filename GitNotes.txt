@@ -1,4 +1,4 @@
-EC2  (Elastic Compute Cloud)
+EC2  (Elastic Compute Cloud) GK Added some Text for conflict 7/15
 Regional Service
 
 GiB -- Gibi Bytes
